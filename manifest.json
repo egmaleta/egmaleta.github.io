@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "[name]",
+  "short_name": "[short_name]",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "[description]"
+}

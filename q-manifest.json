@@ -1,0 +1,395 @@
+{
+  "symbols": {
+    "s_kzjavhDI3L0": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "Link_component_a_onClick",
+      "canonicalFilename": "s_kzjavhdi3l0",
+      "hash": "kzjavhDI3L0",
+      "ctxKind": "event",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_8gdLBszqbaM"
+    },
+    "s_yiXwCC0m3jY": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "Link_component_a_onMouseOver",
+      "canonicalFilename": "s_yixwcc0m3jy",
+      "hash": "yiXwCC0m3jY",
+      "ctxKind": "event",
+      "ctxName": "onMouseOver$",
+      "captures": false,
+      "parent": "s_8gdLBszqbaM"
+    },
+    "s_EpaZ5qQ4Lg4": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "Link_component_a_onQVisible",
+      "canonicalFilename": "s_epaz5qq4lg4",
+      "hash": "EpaZ5qQ4Lg4",
+      "ctxKind": "event",
+      "ctxName": "onQVisible$",
+      "captures": false,
+      "parent": "s_8gdLBszqbaM"
+    },
+    "s_3sccYCDd1Z0": {
+      "origin": "root.tsx",
+      "displayName": "root_component",
+      "canonicalFilename": "s_3sccycdd1z0",
+      "hash": "3sccYCDd1Z0",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false
+    },
+    "s_8gdLBszqbaM": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "Link_component",
+      "canonicalFilename": "s_8gdlbszqbam",
+      "hash": "8gdLBszqbaM",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false
+    },
+    "s_AKetNByE5TM": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "RouterOutlet_component",
+      "canonicalFilename": "s_aketnbye5tm",
+      "hash": "AKetNByE5TM",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false
+    },
+    "s_TxCFOy819ag": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "QwikCityProvider_component",
+      "canonicalFilename": "s_txcfoy819ag",
+      "hash": "TxCFOy819ag",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false
+    },
+    "s_VkLNXphUh5s": {
+      "origin": "routes/layout.tsx",
+      "displayName": "layout_component",
+      "canonicalFilename": "s_vklnxphuh5s",
+      "hash": "VkLNXphUh5s",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false
+    },
+    "s_WmYC5H00wtI": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "QwikCityMockProvider_component",
+      "canonicalFilename": "s_wmyc5h00wti",
+      "hash": "WmYC5H00wtI",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false
+    },
+    "s_xYL1qOwPyDI": {
+      "origin": "routes/index.tsx",
+      "displayName": "routes_component",
+      "canonicalFilename": "s_xyl1qowpydi",
+      "hash": "xYL1qOwPyDI",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false
+    },
+    "s_zrbrqoaqXSY": {
+      "origin": "components/router-head/router-head.tsx",
+      "displayName": "RouterHead_component",
+      "canonicalFilename": "s_zrbrqoaqxsy",
+      "hash": "zrbrqoaqXSY",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false
+    },
+    "s_hO3b5j0m2ZI": {
+      "origin": "root.tsx",
+      "displayName": "root_component_useStyles",
+      "canonicalFilename": "s_ho3b5j0m2zi",
+      "hash": "hO3b5j0m2ZI",
+      "ctxKind": "function",
+      "ctxName": "useStyles$",
+      "captures": false,
+      "parent": "s_3sccYCDd1Z0"
+    },
+    "s_2Eo7WCpaqI8": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "QwikCityProvider_component_useWatch",
+      "canonicalFilename": "s_2eo7wcpaqi8",
+      "hash": "2Eo7WCpaqI8",
+      "ctxKind": "function",
+      "ctxName": "useWatch$",
+      "captures": true,
+      "parent": "s_TxCFOy819ag"
+    },
+    "s_u0YVoxt2aTY": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "Link_component_useOnDocument",
+      "canonicalFilename": "s_u0yvoxt2aty",
+      "hash": "u0YVoxt2aTY",
+      "ctxKind": "function",
+      "ctxName": "useOnDocument",
+      "captures": false,
+      "parent": "s_8gdLBszqbaM"
+    }
+  },
+  "mapping": {
+    "s_kzjavhDI3L0": "q-c9e5ed19.js",
+    "s_yiXwCC0m3jY": "q-c9e5ed19.js",
+    "s_EpaZ5qQ4Lg4": "q-c9e5ed19.js",
+    "s_3sccYCDd1Z0": "q-10cfdb91.js",
+    "s_8gdLBszqbaM": "q-c9e5ed19.js",
+    "s_AKetNByE5TM": "q-c50b4a38.js",
+    "s_TxCFOy819ag": "q-5482b8e9.js",
+    "s_VkLNXphUh5s": "q-056a368f.js",
+    "s_WmYC5H00wtI": "q-ab782c7d.js",
+    "s_xYL1qOwPyDI": "q-4f12cd7d.js",
+    "s_zrbrqoaqXSY": "q-fad129d3.js",
+    "s_hO3b5j0m2ZI": "q-10cfdb91.js",
+    "s_2Eo7WCpaqI8": "q-5482b8e9.js",
+    "s_u0YVoxt2aTY": "q-c9e5ed19.js"
+  },
+  "bundles": {
+    "q-056a368f.js": {
+      "size": 176,
+      "imports": [
+        "q-25d72687.js"
+      ],
+      "origins": [
+        "src/entry_layout.js",
+        "src/s_vklnxphuh5s.js"
+      ],
+      "symbols": [
+        "s_VkLNXphUh5s"
+      ]
+    },
+    "q-10cfdb91.js": {
+      "size": 5224,
+      "imports": [
+        "q-25d72687.js",
+        "q-963ecb6f.js"
+      ],
+      "dynamicImports": [
+        "q-fad129d3.js"
+      ],
+      "origins": [
+        "src/components/router-head/router-head.tsx",
+        "src/entry_root.js",
+        "src/global.css?used&inline",
+        "src/s_3sccycdd1z0.js",
+        "src/s_ho3b5j0m2zi.js"
+      ],
+      "symbols": [
+        "s_3sccYCDd1Z0",
+        "s_hO3b5j0m2ZI"
+      ]
+    },
+    "q-2393a482.js": {
+      "size": 202,
+      "imports": [
+        "q-25d72687.js"
+      ],
+      "dynamicImports": [
+        "q-10cfdb91.js"
+      ],
+      "origins": [
+        "src/root.tsx"
+      ]
+    },
+    "q-25d72687.js": {
+      "size": 40616,
+      "origins": [
+        "\u0000vite/preload-helper",
+        "node_modules/@builder.io/qwik/core.min.mjs"
+      ]
+    },
+    "q-3ed0ba6b.js": {
+      "size": 507,
+      "imports": [
+        "q-25d72687.js"
+      ],
+      "dynamicImports": [
+        "q-42099e16.js",
+        "q-7778ff37.js",
+        "q-f05598cd.js"
+      ],
+      "origins": [
+        "@qwik-city-plan"
+      ]
+    },
+    "q-42099e16.js": {
+      "size": 277,
+      "imports": [
+        "q-25d72687.js"
+      ],
+      "dynamicImports": [
+        "q-4f12cd7d.js"
+      ],
+      "origins": [
+        "src/routes/index.tsx"
+      ]
+    },
+    "q-45aab3b6.js": {
+      "size": 2536,
+      "origins": [
+        "node_modules/@builder.io/qwik-city/service-worker.mjs",
+        "src/routes/service-worker.ts"
+      ]
+    },
+    "q-4f12cd7d.js": {
+      "size": 122,
+      "imports": [
+        "q-25d72687.js"
+      ],
+      "origins": [
+        "src/entry_routes.js",
+        "src/s_xyl1qowpydi.js"
+      ],
+      "symbols": [
+        "s_xYL1qOwPyDI"
+      ]
+    },
+    "q-5482b8e9.js": {
+      "size": 1657,
+      "imports": [
+        "q-25d72687.js",
+        "q-963ecb6f.js"
+      ],
+      "dynamicImports": [
+        "q-3ed0ba6b.js"
+      ],
+      "origins": [
+        "@builder.io/qwik/build",
+        "src/entry_QwikCityProvider.js",
+        "src/s_2eo7wcpaqi8.js",
+        "src/s_txcfoy819ag.js"
+      ],
+      "symbols": [
+        "s_2Eo7WCpaqI8",
+        "s_TxCFOy819ag"
+      ]
+    },
+    "q-7778ff37.js": {
+      "size": 180,
+      "imports": [
+        "q-25d72687.js"
+      ],
+      "dynamicImports": [
+        "q-056a368f.js"
+      ],
+      "origins": [
+        "src/routes/layout.tsx"
+      ]
+    },
+    "q-963ecb6f.js": {
+      "size": 4276,
+      "imports": [
+        "q-25d72687.js"
+      ],
+      "dynamicImports": [
+        "q-5482b8e9.js",
+        "q-ab782c7d.js",
+        "q-c50b4a38.js",
+        "q-c9e5ed19.js"
+      ],
+      "origins": [
+        "@qwik-city-sw-register",
+        "node_modules/@builder.io/qwik-city/index.qwik.mjs"
+      ]
+    },
+    "q-ab782c7d.js": {
+      "size": 468,
+      "imports": [
+        "q-25d72687.js",
+        "q-963ecb6f.js"
+      ],
+      "origins": [
+        "src/entry_QwikCityMockProvider.js",
+        "src/s_wmyc5h00wti.js"
+      ],
+      "symbols": [
+        "s_WmYC5H00wtI"
+      ]
+    },
+    "q-c50b4a38.js": {
+      "size": 269,
+      "imports": [
+        "q-25d72687.js",
+        "q-963ecb6f.js"
+      ],
+      "origins": [
+        "src/entry_RouterOutlet.js",
+        "src/s_aketnbye5tm.js"
+      ],
+      "symbols": [
+        "s_AKetNByE5TM"
+      ]
+    },
+    "q-c9e5ed19.js": {
+      "size": 1121,
+      "imports": [
+        "q-25d72687.js",
+        "q-963ecb6f.js"
+      ],
+      "origins": [
+        "src/entry_Link.js",
+        "src/s_8gdlbszqbam.js",
+        "src/s_epaz5qq4lg4.js",
+        "src/s_kzjavhdi3l0.js",
+        "src/s_u0yvoxt2aty.js",
+        "src/s_yixwcc0m3jy.js"
+      ],
+      "symbols": [
+        "s_8gdLBszqbaM",
+        "s_EpaZ5qQ4Lg4",
+        "s_kzjavhDI3L0",
+        "s_u0YVoxt2aTY",
+        "s_yiXwCC0m3jY"
+      ]
+    },
+    "q-f05598cd.js": {
+      "size": 112,
+      "imports": [
+        "q-25d72687.js"
+      ],
+      "dynamicImports": [
+        "q-45aab3b6.js"
+      ],
+      "origins": [
+        "@qwik-city-entries"
+      ]
+    },
+    "q-fad129d3.js": {
+      "size": 639,
+      "imports": [
+        "q-25d72687.js",
+        "q-963ecb6f.js"
+      ],
+      "origins": [
+        "src/entry_RouterHead.js",
+        "src/s_zrbrqoaqxsy.js"
+      ],
+      "symbols": [
+        "s_zrbrqoaqXSY"
+      ]
+    }
+  },
+  "injections": [],
+  "version": "1",
+  "options": {
+    "target": "client",
+    "buildMode": "production",
+    "forceFullBuild": true,
+    "entryStrategy": {
+      "type": "smart"
+    }
+  },
+  "platform": {
+    "qwik": "0.16.1",
+    "vite": "",
+    "rollup": "3.7.5",
+    "env": "node",
+    "os": "linux",
+    "node": "18.12.1"
+  }
+}
