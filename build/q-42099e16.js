@@ -1,1 +1,0 @@
-import{o as t,T as e,_ as o}from"./q-25d72687.js";const n=t(e(()=>o(()=>import("./q-4f12cd7d.js"),["build/q-4f12cd7d.js","build/q-25d72687.js"]),"s_xYL1qOwPyDI")),r={title:"Eduardo García Maleta",meta:[{name:"description",content:"[content]"}]};export{n as default,r as head};

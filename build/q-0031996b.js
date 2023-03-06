@@ -1,0 +1,1 @@
+import{g as s,H as n,s as e,h as o}from"./q-62c1a33f.js";const r=t=>(s(),n("button",{class:"motion-reduce:transition-none duration-200 ease-in-out hover:text-sl-accent1",style:{"transition-property":"color"},onClick$:t.toggle$,children:t.value?n(e,{},"Zn_0"):n(e,{name:"when-off",[o]:{name:o}},"Zn_1")},"Zn_2"));export{r as s_hCB9WGnJz1w};

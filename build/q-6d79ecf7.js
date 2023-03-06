@@ -1,0 +1,1 @@
+import{H as t,X as r}from"./q-62c1a33f.js";const s=()=>t(r,{children:t("a",{href:"/article/2023/03/dummy-article-just-for-testing/",class:"text-ctp-rosewater",children:"Dummy Article Just for Testing - Subalternas"})},"NS_0");export{s as s_oYm0LKNhjXE};
