@@ -1,1 +1,0 @@
-import{H as t,s as o}from"./q-62c1a33f.js";const n=r=>t("a",{target:"_blank",...r,class:"motion-reduce:transition-none duration-200 ease-in-out hover:text-sl-accent1 hover:-translate-y-1",style:{"transition-property":"color, transform"},children:t(o,{},"Ul_0")},"Ul_1");export{n as s_oUA04yubE2Y};

@@ -1,1 +1,0 @@
-import{H as s,s as a,h as n}from"./q-62c1a33f.js";const i=t=>{var e;return s("figure",{...t,class:["rounded-2xl overflow-hidden bg-sl-surface",(e=t.class)==null?void 0:e.toString()],children:[s(a,{},"9T_0"),s("figcaption",{class:"px-4 py-2 text-xs sm:text-sm text-sl-subtext",children:s(a,{name:"caption",[n]:{name:n}},"9T_1")})]},"9T_2")};export{i as s_Bqd6TI0AQ8g};
